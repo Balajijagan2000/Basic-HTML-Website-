@@ -1,4 +1,4 @@
-# Basic-HTML-Website-
+# Basic-HTML-Webpage-
 Inspired from: <a href="https://www.basicwebsiteexample.com/">https://www.basicwebsiteexample.com/</a>
 
 It is a clone of the "Basicwebsiteexample.com" and done using HTML and CSS.
